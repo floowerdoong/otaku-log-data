@@ -1,6 +1,21 @@
 {
   "min_version": "1.0.0",
-  "latest_version": "1.6.1",
+  "latest_version": "1.6.2",
   "store_url": "https://apps.apple.com/kr/app/id6793930864",
-  "store_url_android": "https://play.google.com/store/apps/details?id=com.muwidarani.otakulog"
+  "store_url_android": "https://play.google.com/store/apps/details?id=com.muwidarani.otakulog",
+  "notice": {
+    "id": "terms-20261117",
+    "title": "이용약관·개인정보 처리방침이 바뀌어요",
+    "body": "11월 17일부터 바뀐 약관과 방침이 적용돼요. 앞으로 생길 공개 프로필과 팔로우(선택), 앱 이용 분석에 관한 내용이 담겼어요. 모든 계정은 비공개로 시작하고, 소셜 기능은 직접 켤 때만 쓰여요.",
+    "links": [
+      {
+        "label": "이용약관",
+        "url": "https://muwidarani.com/terms/susuk/"
+      },
+      {
+        "label": "개인정보 처리방침",
+        "url": "https://muwidarani.com/privacy/susuk/"
+      }
+    ]
+  }
 }
